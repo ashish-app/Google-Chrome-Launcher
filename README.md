@@ -26,6 +26,6 @@ To use the Google Chrome Launcher, simply follow the instructions below:
 The Google Chrome Launcher script is provided as-is without any warranty. Use it at your own risk. Ashish Apps is not liable for any damages or issues arising from the use of this script.
 
 ## Contact
-For any inquiries or support, you can reach out to Ashish Apps via email at [ashish@example.com](mailto:ashish@example.com).
+For any inquiries or support, you can reach out to Ashish Apps via email at [here](mailto:ashishdeep08@gmail.com).
 
 Thank you for using the Google Chrome Launcher by Ashish Apps!
